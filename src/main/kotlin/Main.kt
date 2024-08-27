@@ -74,7 +74,7 @@ fun reiniciarCabina(cabinaId: Int) {
 }
 
 fun main() {
-    // Example usage
+
     cabinaList.add(Cabina(1))
     cabinaList.add(Cabina(2))
 
